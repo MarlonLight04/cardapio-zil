@@ -1,0 +1,21 @@
+@media(max-width: 400px){
+    .cabecalho{
+        width: 390px;
+        font-size: 20px;
+    }
+
+    .cardapio{
+        width: 390px;
+        height: 900px;
+        padding: 5px;
+    }
+
+    .ficha-tecnica{
+        width: 390px;
+        height: 1200px;
+    }
+
+    .rodape{
+        width: 390px;
+    }
+}
